@@ -1,0 +1,6 @@
+npm i discord.js
+npm i ascii-data-table
+npm i fs
+npm i dateformat
+npm i moment
+npm i canvas
